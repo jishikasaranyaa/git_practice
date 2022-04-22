@@ -1,0 +1,5 @@
+jenkins credentials
+user name: lakshmi
+password: lakki
+ /home/ubuntu/.jenkins/workspace/Development
+/home/ubuntu/.jenkins/workspace/testing
